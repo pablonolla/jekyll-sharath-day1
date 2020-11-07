@@ -1,0 +1,11 @@
+exclude:
+  - _site
+
+title: "Title: test1"
+
+collections: 
+  stamps: 
+    output: true
+  coins:
+    output: true   
+
